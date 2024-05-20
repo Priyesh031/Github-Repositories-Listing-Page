@@ -21,7 +21,6 @@ MyGithubSearchApp is a web application built with Angular that allows users to s
 1. Clone the repository:
    ```bash
    git clone git@github.com:Priyesh031/Github-Repositories-Listing-Page.git
-  
 
 2. Navigate to the project directory:
    ```bash
