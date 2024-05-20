@@ -42,8 +42,7 @@ MyGithubSearchApp is a web application built with Angular that allows users to s
 
 ## Deployment
 
-The application is deployed to Vercel. Visit the deployed site here.[Link](https://github-repositories-listing-page-pi.vercel.app)
-
+The application is deployed to Vercel. Visit the deployed site here.[Link]https://github-repositories-listing-page-iota.vercel.app/
 
 
 
